@@ -8,7 +8,7 @@ Welcome to the Face Recognition System! This application allows you to capture i
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Developer Information](#developer-information)
-
+- [Version](#version)
 ## Features
 
 - **Capture Images**: Capture images of individuals to create a dataset.
@@ -24,3 +24,39 @@ student of Bardhaman University Department Of  Bachelor of Computer Application 
 1. Hospitals.For make Attendance list and give a strong authentication to the management for Attendance of  employ's and doctors.
 2. Schools .
 3. Bank Sectors."# Face-Recognize-Kaira-" 
+## Version
+
+██    ██  ██████  ██████  ███    ██ ███████ ███    ██      ██████  
+██    ██ ██    ██ ██   ██ ████   ██ ██      ████   ██     ██    ██ 
+██    ██ ██    ██ ██████  ██ ██  ██ █████   ██ ██  ██     ██    ██ 
+ ██  ██  ██    ██ ██   ██ ██  ██ ██ ██      ██  ██ ██     ██    ██ 
+  ████    ██████  ██   ██ ██   ████ ███████ ██   ████      ██████  
+
+Version 1.2
+
+  .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. |
+| |  ___  ____   | || |      __      | || |     _____    | || |  _______     | |
+| | |_  ||_  _|  | || |     /  \     | || |    |_   _|   | || | |_   __ \    | |
+| |   | |_/ /    | || |    / /\ \    | || |      | |     | || |   | |__) |   | |
+| |   |  __'.    | || |   / ____ \   | || |      | |     | || |   |  __ /    | |
+| |  _| |  \ \_  | || | _/ /    \ \_ | || |     _| |_    | || |  _| |  \ \_  | |
+| | |____||____| | || ||____|  |____|| || |    |_____|   | || | |____| |___| | |
+| |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------' 
+ .----------------.                                                             
+| .--------------. |                                                            
+| |      __      | |                                                            
+| |     /  \     | |                                                            
+| |    / /\ \    | |                                                            
+| |   / ____ \   | |                                                            
+| | _/ /    \ \_ | |                                                            
+| ||____|  |____|| |                                                            
+| |              | |                                                            
+| '--------------' |                                                            
+ '----------------'                                                             
+
+
+"# Face-Recognize-Kaira-" 
+"# Face-Recognize-Kaira-" 
