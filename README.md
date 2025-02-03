@@ -1,4 +1,4 @@
-Here's a **README.md** for your **Face Recognize Kaira** project with a structured, professional, and visually appealing format.  
+
 
 ---
 
