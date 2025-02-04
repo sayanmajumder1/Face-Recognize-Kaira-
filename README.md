@@ -6,7 +6,7 @@
 
 > **An advanced face recognition system for real-time authentication and attendance tracking.**  
 
-![Face Recognize Kaira](assets/banner.png)  
+![Face Recognize Kaira](https://raw.githubusercontent.com/sayanmajumder1/CollegeInformation/main/Screenshot)  
 
 ---
 
