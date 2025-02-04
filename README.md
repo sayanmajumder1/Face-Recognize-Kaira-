@@ -6,7 +6,7 @@
 
 > **An advanced face recognition system for real-time authentication and attendance tracking.**  
 
-![Face Recognize Kaira](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s4.png)  
+![Face Recognize Kaira](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s6.png)  
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Capture Images | Training Model | Recognition Mode |
 |---------------|---------------|------------------|
-| ![Capture](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s1.png) | ![Training](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s2.png) | ![Recognition](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s3.png) |
+| ![Capture](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s7.png) | ![Training](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s4.png) | ![Recognition](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s2.png) |
 
 ---
 
