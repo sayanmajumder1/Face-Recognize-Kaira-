@@ -26,7 +26,7 @@
 
 | Capture Images | Training Model | Recognition Mode |
 |---------------|---------------|------------------|
-| ![Capture](assets/capture.png) | ![Training](assets/training.png) | ![Recognition](assets/recognition.png) |
+| ![Capture](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s1.png) | ![Training](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s2.png) | ![Recognition](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s3.png) |
 
 ---
 
