@@ -28,9 +28,6 @@
 |---------------|---------------|------------------|
 | ![Capture](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s7.png) | ![Training](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s4.png) | ![Recognition](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s2.png) |
 
-| Excel Sheet |
-|______________|
-|![Attendece Sheet](https://raw.githubusercontent.com/sayanmajumder1/Face-Recognize-Kaira-/master/s7.png) | 
 
 ---
 
