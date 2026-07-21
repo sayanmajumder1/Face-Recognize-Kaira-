@@ -9,6 +9,7 @@ from collections import deque
 class FaceImageCapturer:
     def __init__(self, save_dir='dataset'):
         """Initialize the face capturer with DNN and Haar fallback"""
+        
         # Get absolute paths
         self.project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         
